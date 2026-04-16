@@ -1,11 +1,14 @@
 {
-  "name": "dev-workflow-marketplace",
-  "description": "Developer workflow plugins for PR, deploy, K8s, Teams, and Azure DevOps",
+  "name": "dev-workflow",
+  "owner": {
+    "name": "Abhishek Singh"
+  },
   "plugins": [
     {
       "name": "dev-workflow",
+      "source": "./",
       "description": "PR review/create, deploy builds, verify deployments, Teams notifications, K8s logs/debug, Azure DevOps integration",
-      "source": "."
+      "version": "1.0.0"
     }
   ]
 }
