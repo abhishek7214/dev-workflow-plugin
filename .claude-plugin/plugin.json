@@ -1,0 +1,9 @@
+{
+  "name": "dev-workflow",
+  "description": "Developer workflow plugin — PR review/create, deploy builds, verify deployments, Teams notifications, Azure DevOps integration",
+  "version": "1.0.0",
+  "author": {
+    "name": "Abhishek Singh"
+  },
+  "keywords": ["devops", "azure", "teams", "pr", "deploy", "pipeline"]
+}
